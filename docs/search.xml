@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[前端要开车,百度变谷歌]]></title>
+    <url>%2FProgramWithChrome%2Fbaidu_2_google%2F</url>
+    <content type="text"><![CDATA[前端要开车,百度变谷歌 原图地址: https://user-images.githubusercontent.com/15868458/62856843-8ccb8380-bd28-11e9-8ac7-f7b3aa760218.gif Gif图中相关素材: google_logo_src: https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png google_logo_width: 272 goolge_logo_height: 92 替换logo1document.getElementById(&quot;lg&quot;).childNodes[1].src=&quot;https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png&quot;; 调整logo大小1document.getElementById(&quot;lg&quot;).childNodes[1].width = 272; 1document.getElementById(&quot;lg&quot;).childNodes[1].height = 92; 调整logo顶部距离1document.getElementById(&quot;head&quot;).style[&quot;padding-top&quot;] = &quot;100px&quot;]]></content>
+      <categories>
+        <category>前端要开车,百度变谷歌</category>
+      </categories>
+      <tags>
+        <tag>前端要开车,百度变谷歌</tag>
+      </tags>
+  </entry>
+</search>
