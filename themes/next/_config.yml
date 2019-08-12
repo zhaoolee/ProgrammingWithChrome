@@ -671,7 +671,7 @@ gitment:
 gitalk:
   enable: true
   github_id: zhaoolee  # Github repo owner
-  repo: ProgramWithChrome   # Repository name to store issues
+  repo: ProgrammingWithChrome   # Repository name to store issues
   client_id: fcfeca14739ad63b029c  # Github Application Client ID
   client_secret: 191c171c5954a566e184f8a22b2c7a4b0b224759  # Github Application Client Secret
   admin_user: zhaoolee  # GitHub repo owner and collaborators, only these guys can initialize github issues
