@@ -2,6 +2,7 @@
 
 
 #### 利用chrome学编程,一切都变得简单...
+
 - 用chrome学编程,安装浏览器就可以上手,javascript本身也足够强大,前后端通吃,容易出成果,有了成果产生的成就感也就有了持续学习编程的动力...
 
 ## 章节
@@ -14,6 +15,7 @@
 
 - [前端要开车, 百度变谷歌](https://zhaoolee.com/ProgrammingWithChrome/baidu_2_google/)
 
+- [我是渣渣辉](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
 
 
 - 中午吃什么
@@ -42,4 +44,8 @@
 
 ![baidu_2_google](https://user-images.githubusercontent.com/15868458/62856847-8e954700-bd28-11e9-8797-76e014ce06d3.gif)
 
+
+#### [我是渣渣辉](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
+
+![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
 

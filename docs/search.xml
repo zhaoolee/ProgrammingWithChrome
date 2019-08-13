@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我是渣渣辉!]]></title>
+    <url>%2FProgrammingWithChrome%2Fzha_zha_hui%2F</url>
+    <content type="text"><![CDATA[Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62918963-d7eea080-bdd3-11e9-93c7-9617c306fb92.gif Gif图中相关资源:扩展程序Tampermonkey下载地址: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en 12345678910111213141516171819202122// ==UserScript==// @name 百度// @namespace https://github.com/zhaoolee/// @version 0.1// @description try to take over the world!// @author zhaoolee// @match https://www.baidu.com/// @grant none// ==/UserScript==(function() &#123; 'use strict'; // 将要推送的信息, 拆成6个字以内,写到一个数组里 let info = ["大扎好", "我西渣渣辉~", "探挽蓝月", "介系里~", "没有玩过的", "船新版本~", "挤需", "体验三番钟~", "里造会", "干我一样~", "爱象", "节款游戏!"]; // 写一个函数,遍历数组 for(let i = 0; i&lt;info.length; i++)&#123; // 定义元素出现的时间间隔 这里定义为1000毫秒, 也就是1秒钟 let time_interval = 1000; // 第一个元素1秒后出现, 第二个元素2秒后出现, 第三个元素3秒后出现... 依次类推 setTimeout(()=&gt;&#123;document.getElementById("su").value=info[i]&#125;, i*1000); &#125;&#125;)();]]></content>
+      <categories>
+        <category>我是渣渣辉!</category>
+      </categories>
+      <tags>
+        <tag>我是渣渣辉!</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[小学生才背诵小九九, 程序员直接代码打印]]></title>
     <url>%2FProgrammingWithChrome%2Ffor_99%2F</url>
     <content type="text"><![CDATA[https://user-images.githubusercontent.com/15868458/62908813-7d8e1980-bdac-11e9-9089-8cd172a825dc.gif Gif图中相关资源1234567891011121314151617function for_99() &#123; // 存储每一行的数据 var result = ""; for (var i = 1; i &lt;= 9; i++) &#123; // 清空上一行的数据 result = ""; for (var j = 1; j &lt;= i; j++) &#123; // 表示每一句运算口诀 con = i + "*" + j + "=" + i*j; result = result + " " + con; &#125; // 打印每一行的数据 console.log(result + "\n"); &#125;&#125;// 调用刚刚写好的函数for_99();]]></content>

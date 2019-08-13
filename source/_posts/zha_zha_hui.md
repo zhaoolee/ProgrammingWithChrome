@@ -1,0 +1,57 @@
+---
+title: 我是渣渣辉!
+top: 996
+tags:
+- 我是渣渣辉!
+categories:
+- 我是渣渣辉!
+
+---
+
+------
+
+
+
+![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
+
+
+<!-- more -->
+
+- Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/62918963-d7eea080-bdd3-11e9-93c7-9617c306fb92.gif
+
+
+![](https://user-images.githubusercontent.com/15868458/62919262-bc37ca00-bdd4-11e9-9fd3-fade1acac58e.jpg)
+
+
+## Gif图中相关资源:
+
+
+扩展程序Tampermonkey下载地址: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+
+
+
+```javascript
+// ==UserScript==
+// @name         百度
+// @namespace    https://github.com/zhaoolee/
+// @version      0.1
+// @description  try to take over the world!
+// @author       zhaoolee
+// @match        https://www.baidu.com/
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    // 将要推送的信息, 拆成6个字以内,写到一个数组里
+    let info = ["大扎好", "我西渣渣辉~", "探挽蓝月", "介系里~", "没有玩过的", "船新版本~", "挤需", "体验三番钟~", "里造会", "干我一样~", "爱象", "节款游戏!"];
+    // 写一个函数,遍历数组
+    for(let i = 0; i<info.length; i++){
+        // 定义元素出现的时间间隔 这里定义为1000毫秒, 也就是1秒钟
+        let time_interval = 1000;
+        // 第一个元素1秒后出现, 第二个元素2秒后出现, 第三个元素3秒后出现... 依次类推
+        setTimeout(()=>{document.getElementById("su").value=info[i]}, i*1000);
+    }
+})();
+```
+
