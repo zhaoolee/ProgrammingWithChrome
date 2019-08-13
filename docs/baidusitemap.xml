@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/ProgrammingWithChrome/for_99/</loc>
+    <lastmod>2019-08-13</lastmod>
+  </url>  <url>
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/ProgrammingWithChrome/baidu_2_google/</loc>
     <lastmod>2019-08-13</lastmod>
   </url>  <url>
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/ProgrammingWithChrome/hello_world/</loc>
-    <lastmod>2019-08-13</lastmod>
-  </url>  <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/ProgrammingWithChrome/for_99/</loc>
     <lastmod>2019-08-13</lastmod>
   </url>
 </urlset>
