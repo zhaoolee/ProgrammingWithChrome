@@ -10,19 +10,12 @@ categories:
 
 ------
 
-<!-- more -->
-
-
-
-##  前端要开车,百度变谷歌
-
-
 
 ![baidu_2_google](https://user-images.githubusercontent.com/15868458/62856847-8e954700-bd28-11e9-8797-76e014ce06d3.gif)
 
+<!-- more -->
+
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62856843-8ccb8380-bd28-11e9-8ac7-f7b3aa760218.gif
-
-
 
 ---
 

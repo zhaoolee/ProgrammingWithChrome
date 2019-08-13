@@ -13,13 +13,9 @@ categories:
 
 ------
 
-<!-- more -->
-
-#### 小学生才背诵小九九, 程序员用代码打印
-
 ![for_99](https://user-images.githubusercontent.com/15868458/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif)
 
-
+<!-- more -->
 
 https://user-images.githubusercontent.com/15868458/62908813-7d8e1980-bdac-11e9-9089-8cd172a825dc.gif
 

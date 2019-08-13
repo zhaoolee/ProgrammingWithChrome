@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[小学生才背诵小九九, 程序员直接代码打印]]></title>
     <url>%2FProgrammingWithChrome%2Ffor_99%2F</url>
-    <content type="text"><![CDATA[小学生才背诵小九九, 程序员用代码打印 https://user-images.githubusercontent.com/15868458/62908813-7d8e1980-bdac-11e9-9089-8cd172a825dc.gif Gif图中相关资源1234567891011121314151617function for_99() &#123; // 存储每一行的数据 var result = ""; for (var i = 1; i &lt;= 9; i++) &#123; // 清空上一行的数据 result = ""; for (var j = 1; j &lt;= i; j++) &#123; // 表示每一句运算口诀 con = i + "*" + j + "=" + i*j; result = result + " " + con; &#125; // 打印每一行的数据 console.log(result + "\n"); &#125;&#125;// 调用刚刚写好的函数for_99();]]></content>
+    <content type="text"><![CDATA[https://user-images.githubusercontent.com/15868458/62908813-7d8e1980-bdac-11e9-9089-8cd172a825dc.gif Gif图中相关资源1234567891011121314151617function for_99() &#123; // 存储每一行的数据 var result = ""; for (var i = 1; i &lt;= 9; i++) &#123; // 清空上一行的数据 result = ""; for (var j = 1; j &lt;= i; j++) &#123; // 表示每一句运算口诀 con = i + "*" + j + "=" + i*j; result = result + " " + con; &#125; // 打印每一行的数据 console.log(result + "\n"); &#125;&#125;// 调用刚刚写好的函数for_99();]]></content>
       <categories>
         <category>小学生才背诵小九九, 程序员直接代码打印</category>
       </categories>
@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!]]></title>
     <url>%2FProgrammingWithChrome%2Fhello_world%2F</url>
-    <content type="text"><![CDATA[孩子第一次开口要呼唤”妈妈”,我们第一次编程要打印”Hello World”! Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62909970-4bcb8180-bdb1-11e9-9473-9f9db8ef7099.gif 为什么第一次要打印Hello World?Hello world是程序员的符号和图腾,第一本介绍C语言的书《C程序设计语言》,书的第一章通过打印Hello world介绍了c语言,后来人们也都跟着用了… 其实Hello world你可能一辈子也用不到,如果你愿意, 你也可以打印Hello girl Gif图中相关资源:1console.log(&quot;Hello World&quot;); 1alert(&quot;Hello World&quot;);]]></content>
+    <content type="text"><![CDATA[Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62909970-4bcb8180-bdb1-11e9-9473-9f9db8ef7099.gif 为什么第一次要打印Hello World?Hello world是程序员的符号和图腾,第一本介绍C语言的书《C程序设计语言》,书的第一章通过打印Hello world介绍了c语言,后来人们也都跟着用了… 其实Hello world你可能一辈子也用不到,如果你愿意, 你也可以打印Hello girl Gif图中相关资源:1console.log(&quot;Hello World&quot;); 1alert(&quot;Hello World&quot;);]]></content>
       <categories>
         <category>孩子第一次开口要呼唤&quot;妈妈&quot;,我们第一次编程要打印&quot;Hello World&quot;!</category>
       </categories>
@@ -25,7 +25,7 @@
   <entry>
     <title><![CDATA[前端要开车,百度变谷歌]]></title>
     <url>%2FProgrammingWithChrome%2Fbaidu_2_google%2F</url>
-    <content type="text"><![CDATA[前端要开车,百度变谷歌 Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62856843-8ccb8380-bd28-11e9-8ac7-f7b3aa760218.gif Gif图中相关资源: google_logo_src: https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png google_logo_width: 272 goolge_logo_height: 92 替换logo1document.getElementById(&quot;lg&quot;).childNodes[1].src=&quot;https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png&quot;; 调整logo大小1document.getElementById(&quot;lg&quot;).childNodes[1].width = 272; 1document.getElementById(&quot;lg&quot;).childNodes[1].height = 92; 调整logo顶部距离1document.getElementById(&quot;head&quot;).style[&quot;padding-top&quot;] = &quot;100px&quot;]]></content>
+    <content type="text"><![CDATA[Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62856843-8ccb8380-bd28-11e9-8ac7-f7b3aa760218.gif Gif图中相关资源: google_logo_src: https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png google_logo_width: 272 goolge_logo_height: 92 替换logo1document.getElementById(&quot;lg&quot;).childNodes[1].src=&quot;https://user-images.githubusercontent.com/15868458/62853438-efb81d00-bd1e-11e9-8727-d113ff93c54f.png&quot;; 调整logo大小1document.getElementById(&quot;lg&quot;).childNodes[1].width = 272; 1document.getElementById(&quot;lg&quot;).childNodes[1].height = 92; 调整logo顶部距离1document.getElementById(&quot;head&quot;).style[&quot;padding-top&quot;] = &quot;100px&quot;]]></content>
       <categories>
         <category>前端要开车,百度变谷歌</category>
       </categories>
