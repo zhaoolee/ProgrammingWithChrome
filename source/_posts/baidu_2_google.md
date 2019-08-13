@@ -17,6 +17,9 @@ categories:
 
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62856843-8ccb8380-bd28-11e9-8ac7-f7b3aa760218.gif
 
+如果把baidu-logo换成google-logo的会怎样?  | 换完后发现毫无违和感
+
+
 ---
 
 
