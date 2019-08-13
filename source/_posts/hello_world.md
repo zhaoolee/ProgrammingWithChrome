@@ -15,10 +15,10 @@ categories:
 
 ## 孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!
 
-![hello_world](https://user-images.githubusercontent.com/15868458/62908178-40745800-bda9-11e9-9140-4382855eadab.gif)
+![hello_world](https://user-images.githubusercontent.com/15868458/62909969-4bcb8180-bdb1-11e9-9d45-2179564c1828.gif)
 
 
-- Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62908179-410cee80-bda9-11e9-9e45-efbf2472900f.gif
+- Gif高清原图地址: https://user-images.githubusercontent.com/15868458/62909970-4bcb8180-bdb1-11e9-9473-9f9db8ef7099.gif
 
 
 ## 为什么第一次要打印Hello World?
