@@ -25,7 +25,7 @@
 #### [孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](https://zhaoolee.com/ProgrammingWithChrome/hello_world/)
 
 
-![hello_world](https://user-images.githubusercontent.com/15868458/62908178-40745800-bda9-11e9-9140-4382855eadab.gif)
+![hello_world](https://user-images.githubusercontent.com/15868458/62909969-4bcb8180-bdb1-11e9-9d45-2179564c1828.gif)
 
 #### [前端要开车, 百度变谷歌](https://zhaoolee.com/ProgrammingWithChrome/baidu_2_google/)
 
