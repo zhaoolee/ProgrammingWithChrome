@@ -1,11 +1,15 @@
 ## [用Chrome学编程 Programming with Chrome](https://zhaoolee.com/ProgrammingWithChrome/)
 
 
-#### 利用chrome学编程,一切都变得简单...
+#### 用Chrome学编程的好处
 
-用chrome学编程,安装浏览器就可以上手,javascript本身也足够强大,前后端通吃,容易出成果,有了成果产生的成就感也就有了持续学习编程的动力...
+- 用Chrome学编程, 可以免除配置开发环境的步骤, 适合新手入门
+- 借助Chrome的扩展程序Tampermonkey, 可以开发出跨平台跨浏览器的脚本程序
+- Chrome运行的Javascript语言, 是本星球唯一前后端(Javascript和Node.js)通吃的语言, 学习性价比极高
 
-| 项目特色   | Programming with Chrome    | [![](https://img.shields.io/badge/ChineseBQB-READEME-brightgreen)](https://github.com/zhaoolee/ChineseBQB) |
+## 项目特色
+
+|   |      |   |
 | --- | --- | --- |
 | 可以粘贴到Chrome, 运行出结果  | <img height='100px' style='height:100px;'  src='https://user-images.githubusercontent.com/15868458/62856847-8e954700-bd28-11e9-8797-76e014ce06d3.gif' />  | <img height='100px' style='height:100px;'  src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/017Playing_%E6%BC%94%E5%A5%8F%F0%9F%8E%BBBQB/0.gif' /> |
 | 原创案例, 简单有趣  | <img height='100px' style='height:100px;'  src='https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif' /> | <img height='100px' style='height:100px;'  src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/024Programmer_%E7%A8%8B%E5%BA%8F%E5%91%98%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8DBQB/89E42AEF082690539C7780142B7EE5F3.png' /> |
@@ -16,6 +20,16 @@
 ---
 
 ## 目录
+
+- [孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](https://zhaoolee.com/ProgrammingWithChrome/hello_world/) 
+
+- [小学生才背诵小九九, 程序员直接代码打印](https://zhaoolee.com/ProgrammingWithChrome/for_99/)
+
+- [前端要开车, 百度变谷歌](https://zhaoolee.com/ProgrammingWithChrome/baidu_2_google/)
+
+- [如何渣渣辉广告偷偷放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/) 
+
+## 简介
 
 #### [孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](https://zhaoolee.com/ProgrammingWithChrome/hello_world/) 
 > ![hello_world](https://user-images.githubusercontent.com/15868458/62909969-4bcb8180-bdb1-11e9-9d45-2179564c1828.gif)
