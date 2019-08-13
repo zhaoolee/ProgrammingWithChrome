@@ -31,3 +31,9 @@ console.log("Hello World");
 ```
 alert("Hello World");
 ```
+
+## 编程小知识
+
+- console.log 可以向控制台输出一条消息, 这几乎是最简单的命令, 也是最常用的命令 [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/API/Console/log)
+
+- alert的全称应该是window.alert, 但程序员通常很懒所以不写window, window.alert作用是显示一个警告对话框,上面显示有指定的文本内容以及一个"确定"按钮 [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/alert)

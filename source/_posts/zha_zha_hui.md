@@ -23,6 +23,8 @@ categories:
 ![](https://user-images.githubusercontent.com/15868458/62919262-bc37ca00-bdd4-11e9-9fd3-fade1acac58e.jpg)
 
 
+
+
 ## Gif图中相关资源:
 
 
@@ -55,3 +57,8 @@ categories:
 })();
 ```
 
+
+## 编程小知识:
+
+数组(Array)是一个有序数据的集合, 我们可以把渣渣辉的台词, 按照顺序存到数组里`["大扎好", "我西渣渣辉~", "探挽蓝月", "介系里~", "没有玩过的", "船新版本~", "挤需", "体验三番钟~", "里造会", "干我一样~", "爱象", "节款游戏!"]`, 然后程序就可以把渣渣辉的台词依次显示到屏幕上~
+[来自MDN的专业解释](https://developer.mozilla.org/zh-CN/docs/Glossary/array)
