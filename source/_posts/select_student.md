@@ -24,10 +24,11 @@ categories:
 
 > ![image](https://user-images.githubusercontent.com/15868458/62988534-54868b00-be77-11e9-9988-39e91449fc0c.png)
 
+
 sketch设计稿下载地址如下:
-```
-https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student_sketch_design/
-```
+
+[https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student_sketch_design/](https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student_sketch_design/)
+
 
 - 2. 新建select_student文件夹(工程目录), 并在`select_student`内新建`images`文件夹,从设计稿导出5个尺寸的图标, 并放到`images`文件夹中, 新建`js`文件夹, 在`js`文件夹中新建`index.js`文件, 新建`css`文件夹, 在`css`文件夹中新建`index.css`文件,  在`select_student`文件夹中新建`index.html`文件,在`select_student`文件夹中新建`manifest.json`文件
 
@@ -35,6 +36,8 @@ https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_
 
 
 - 3.  在`manifest.json`中写入以下内容
+
+
 
 ```json
 // manifest.json
@@ -61,7 +64,11 @@ https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_
 }
 ```
 
+
+
 - 4. 在`index.html`中写入如下内容
+
+
 
 ```html
 <!DOCTYPE html>
@@ -88,7 +95,9 @@ https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_
 </html>
 ```
 
+
 - 5. 在index.js中写入如下内容(核心逻辑)
+
 
 ```javascript
 window.onload = function () {
@@ -135,6 +144,9 @@ window.onload = function () {
 ```
 
 - 6.在index.css中写入如下内容
+
+
+
 ```css
 *{
     margin: 0;
@@ -232,9 +244,9 @@ chrome://extensions
 
 - 完整程序已经上传到github, 下载地址如下:
 
-```
-https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student
-```
+
+[https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student](https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student)
+
 
 
 ## 编程小知识
