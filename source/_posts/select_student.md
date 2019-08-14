@@ -8,12 +8,13 @@ categories:
 
 ---
 
-![select_student](https://user-images.githubusercontent.com/15868458/62988062-7f6fdf80-be75-11e9-9a6d-9cfacd918d30.gif)
 
+
+![select_student](https://user-images.githubusercontent.com/15868458/62990263-e2fe0b00-be7d-11e9-8c72-b7f1bf743aee.gif)
 
 <!-- more -->
 
-- Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/62988061-7ed74900-be75-11e9-91ea-7e5f0402592f.gif
+- Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/62990262-e2657480-be7d-11e9-8f3b-f14c42eb342e.gif
 
 ## 如何写一个扩展程序?
 
@@ -234,6 +235,6 @@ https://github.com/zhaoolee/ProgrammingWithChrome/pwc_source/select_student/
 ```
 
 
+## 编程小知识
 
-
-
+- Math.random() 函数返回一个浮点伪随机数, 在范围[0，1)，也就是说，从0（包括0）往上，但是**排除1**, 可以实现将初始种子选择到随机数生成算法 [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/getElementById)
