@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    border: 0;
+
+}
+
+.clearfix:before, .clearfix:after{
+    content: "";
+    display: table;
+}
+
+.clearfix:after{
+
+    clear:both;
+}
+
+/*适配非主流浏览器(IE浏览器)*/
+
+.clearfix{
+
+    zoom:1;
+
+}
+
+
+body{
+
+
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.content{
+
+    width: 200px;
+    height: 120px;
+    background: #ea6f5a;
+    margin: 0 auto;
+    border: 1px solid white;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+.best_student{
+
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+
+}
+
+.btn{
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    width: 80px;
+    height:22px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 3px;
+    color: #346956;
+    position: absolute;
+    bottom: 20px;
+    left: 60px;
+}
+
+.btn:hover{
+
+    color: #ea6f5a;
+
+}
+
+.btn:active{
+
+    background: #f2f2f2;
+
+}
+
+
+
+
+
+

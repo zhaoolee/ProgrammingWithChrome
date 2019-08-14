@@ -29,6 +29,8 @@
 
 - [如何渣渣辉广告偷偷放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/) 
 
+- [写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
+
 ## 简介
 
 #### [孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](https://zhaoolee.com/ProgrammingWithChrome/hello_world/) 
@@ -53,3 +55,8 @@
 
 > ![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
 > 大扎好,我是渣渣辉!
+
+
+#### [写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
+
+![select_student](https://user-images.githubusercontent.com/15868458/62988062-7f6fdf80-be75-11e9-9a6d-9cfacd918d30.gif)
