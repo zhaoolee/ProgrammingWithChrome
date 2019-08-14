@@ -43,7 +43,7 @@
 
 #### [005写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
 
-![select_student](https://user-images.githubusercontent.com/15868458/62988062-7f6fdf80-be75-11e9-9a6d-9cfacd918d30.gif)
+![select_student](https://user-images.githubusercontent.com/15868458/62990263-e2fe0b00-be7d-11e9-8c72-b7f1bf743aee.gif)
 
 
 #### [004如何渣渣辉广告偷偷放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
