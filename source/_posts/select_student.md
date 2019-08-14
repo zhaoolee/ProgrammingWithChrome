@@ -24,7 +24,7 @@ categories:
 
 sketch设计稿下载地址如下:
 ```
-https://github.com/zhaoolee/ProgrammingWithChrome/pwc_source/select_student_sketch_design/
+https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student_sketch_design/
 ```
 
 - 2. 新建select_student文件夹(工程目录), 并在`select_student`内新建`images`文件夹,从设计稿导出5个尺寸的图标, 并放到`images`文件夹中, 新建`js`文件夹, 在`js`文件夹中新建`index.js`文件, 新建`css`文件夹, 在`css`文件夹中新建`index.css`文件,  在`select_student`文件夹中新建`index.html`文件,在`select_student`文件夹中新建`manifest.json`文件
@@ -231,7 +231,7 @@ chrome://extensions
 - 完整程序已经上传到github, 下载地址如下:
 
 ```
-https://github.com/zhaoolee/ProgrammingWithChrome/pwc_source/select_student/
+https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/select_student
 ```
 
 
