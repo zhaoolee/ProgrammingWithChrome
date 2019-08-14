@@ -2,9 +2,11 @@
 title: 孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!
 top: 999
 tags:
-- 孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!
+- console.log
+- alert
+- Hello World
 categories:
-- 孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!
+- 前端工程师
 
 ---
 

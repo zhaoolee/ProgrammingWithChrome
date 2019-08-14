@@ -103,14 +103,14 @@
 
 
 
-  <meta name="keywords" content="小学生才背诵小九九, 程序员直接代码打印">
+  <meta name="keywords" content="for,循环,小九九,小学生">
 <meta property="og:type" content="article">
 <meta property="og:title" content="小学生才背诵小九九, 程序员直接代码打印">
 <meta property="og:url" content="http://zhaoolee.github.io/ProgrammingWithChrome/for_99/index.html">
 <meta property="og:site_name" content="用Chrome学编程">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://user-images.githubusercontent.com/15868458/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif">
-<meta property="og:updated_time" content="2019-08-13T07:44:16.206Z">
+<meta property="og:updated_time" content="2019-08-14T06:28:24.334Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="小学生才背诵小九九, 程序员直接代码打印">
 <meta name="twitter:image" content="https://user-images.githubusercontent.com/15868458/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif">
@@ -443,12 +443,24 @@
                 
               
 
-              <time title="创建时间：2019-08-13 09:10:19 / 修改时间：15:44:16" itemprop="dateCreated datePublished" datetime="2019-08-13T09:10:19+08:00">2019-08-13</time>
+              <time title="创建时间：2019-08-13 09:10:19" itemprop="dateCreated datePublished" datetime="2019-08-13T09:10:19+08:00">2019-08-13</time>
             
 
             
               
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2019-08-14 14:28:24" itemprop="dateModified" datetime="2019-08-14T14:28:24+08:00">2019-08-14</time>
               
             
           </span>
@@ -465,7 +477,7 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/ProgrammingWithChrome/categories/小学生才背诵小九九-程序员直接代码打印/" itemprop="url" rel="index"><span itemprop="name">小学生才背诵小九九, 程序员直接代码打印</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/ProgrammingWithChrome/categories/算法/" itemprop="url" rel="index"><span itemprop="name">算法</span></a></span>
 
                 
                 
@@ -519,8 +531,10 @@
 <h2 id="Gif图中相关资源"><a href="#Gif图中相关资源" class="headerlink" title="Gif图中相关资源"></a>Gif图中相关资源</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">for_99</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="comment">// 存储每一行的数据</span></span><br><span class="line">    <span class="keyword">var</span> result = <span class="string">""</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">1</span>; i &lt;= <span class="number">9</span>; i++) &#123;</span><br><span class="line">        <span class="comment">// 清空上一行的数据</span></span><br><span class="line">        result = <span class="string">""</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">var</span> j = <span class="number">1</span>; j &lt;= i; j++) &#123;</span><br><span class="line">            <span class="comment">// 表示每一句运算口诀</span></span><br><span class="line">            con = i + <span class="string">"*"</span> + j + <span class="string">"="</span> + i*j;          </span><br><span class="line">            result = result + <span class="string">" "</span> + con;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// 打印每一行的数据</span></span><br><span class="line">        <span class="built_in">console</span>.log(result + <span class="string">"\n"</span>);       </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// 调用刚刚写好的函数</span></span><br><span class="line">for_99();</span><br></pre></td></tr></table></figure>
 
 <h2 id="编程小知识"><a href="#编程小知识" class="headerlink" title="编程小知识"></a>编程小知识</h2><ul>
-<li><code>for</code> 语句用于创建一个循环，它包含了三个可选的表达式，三个可选的表达式包围在圆括号中并由分号分隔， 后跟一个在循环中执行的语句 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for" target="_blank" rel="noopener">MDN的专业解释链接</a></li>
-<li>循环用于让计算机做一些重复的事, 九九乘法表(小九九)是一个典型的二层的循环, 理解了程序中<strong>循环流程</strong>的规则, 也就能打印出九九乘法表了</li>
+<li><p><code>for</code> 语句用于创建一个循环，它包含了三个可选的表达式，三个可选的表达式包围在圆括号中并由分号分隔， 后跟一个在循环中执行的语句 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for" target="_blank" rel="noopener">MDN的专业解释链接</a></p>
+</li>
+<li><p>循环用于让计算机做一些重复的事, 九九乘法表(小九九)是一个典型的二层的循环, 理解了程序中<strong>循环流程</strong>的规则, 也就能打印出九九乘法表了</p>
+</li>
 </ul>
 
       
@@ -569,7 +583,13 @@
       
         <div class="post-tags">
           
-            <a href="/ProgrammingWithChrome/tags/小学生才背诵小九九-程序员直接代码打印/" rel="tag"># 小学生才背诵小九九, 程序员直接代码打印</a>
+            <a href="/ProgrammingWithChrome/tags/for/" rel="tag"># for</a>
+          
+            <a href="/ProgrammingWithChrome/tags/循环/" rel="tag"># 循环</a>
+          
+            <a href="/ProgrammingWithChrome/tags/小九九/" rel="tag"># 小九九</a>
+          
+            <a href="/ProgrammingWithChrome/tags/小学生/" rel="tag"># 小学生</a>
           
         </div>
       
@@ -690,13 +710,7 @@
                     
                       
                     
-                      
-                    
-                      
-                    
-                      
-                    
-                    <span class="site-state-item-count">5</span>
+                    <span class="site-state-item-count">2</span>
                     <span class="site-state-item-name">分类</span>
                   </a>
                 </div>
@@ -723,7 +737,29 @@
                     
                       
                     
-                    <span class="site-state-item-count">5</span>
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">16</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>

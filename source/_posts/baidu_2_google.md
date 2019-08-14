@@ -2,9 +2,12 @@
 title: 前端要开车,百度变谷歌
 top: 997
 tags:
-- 前端要开车,百度变谷歌
+- getElementById
+- document
+- 百度
+- 谷歌
 categories:
-- 前端要开车,百度变谷歌
+- 前端工程师
 
 ---
 
