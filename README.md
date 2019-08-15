@@ -1,11 +1,14 @@
 ## [用Chrome学编程 Programming with Chrome](https://zhaoolee.com/ProgrammingWithChrome/)
 
+**用Chrome学编程,通过Gif图展示Chrome的骚操作,充分挖掘Chrome的编程潜力! 同时也是本星球的《如何用Chrome装B》合集**
+
 
 #### 用Chrome学编程的好处
 
 - 用Chrome学编程, 可以免除配置开发环境的步骤, 适合新手入门
 - 借助Chrome的扩展程序Tampermonkey, 可以开发出跨平台跨浏览器的脚本程序
-- Chrome运行的Javascript语言, 是本星球唯一前后端(Javascript和Node.js)通吃的语言, 学习性价比极高
+- Chrome运行的Javascript语言, 是前后端(Javascript和Node.js)通吃的语言, 学习性价比极高
+
 
 ## 项目特色
 
