@@ -48,25 +48,26 @@
 
 ![select_student](https://user-images.githubusercontent.com/15868458/62990263-e2fe0b00-be7d-11e9-8c72-b7f1bf743aee.gif)
 
+> 独秀你先坐下, 我们另外抽一个同学回答问题(于是老师默默打开了这个小工具)~
+
 
 #### [004如何把渣渣辉广告放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
 
 > ![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
-> 大扎好,我是渣渣辉!
+
+> 大扎好,我是渣渣辉!是兄弟, 就跟我一起来玩百度首页~
 
 
 #### [003前端要开车, 百度变谷歌](https://zhaoolee.com/ProgrammingWithChrome/baidu_2_google/)
 
 > ![baidu_2_google](https://user-images.githubusercontent.com/15868458/62856847-8e954700-bd28-11e9-8797-76e014ce06d3.gif)
 
-> 如果把baidu-logo换成google-logo的会怎样?  | 换完后毫无违和感
+> 如果把baidu-logo换成google-logo的会怎样?  | 换完后毫无违和感 | 口亨
 
 #### [002小学生才背诵小九九, 程序员直接代码打印](https://zhaoolee.com/ProgrammingWithChrome/for_99/)
 > ![for_99](https://user-images.githubusercontent.com/15868458/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif)
 
 > 循环用于让计算机做一些重复的事, 九九乘法表(小九九)是一个典型的二层的循环, 理解了程序中**循环流程**的规则, 也就能打印出九九乘法表了
-
-
 
 
 #### [001孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](https://zhaoolee.com/ProgrammingWithChrome/hello_world/) 
