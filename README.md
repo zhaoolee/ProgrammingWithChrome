@@ -1,8 +1,8 @@
 ## [用Chrome学编程 Programming with Chrome](https://zhaoolee.com/ProgrammingWithChrome/)
 
-**用Chrome学编程, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力! 同时也是本星球的《如何用Chrome优雅装B》合集.**
+**《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!**
 
-**Programming with Chrome, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome! It is also a collection of 《How to Use Chrome elegantly install B》 on the planet.**
+**《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 
 
 ## 用Chrome学编程的好处
