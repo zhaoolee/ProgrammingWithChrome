@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/zha_zha_hui/</loc>
+    
+    <lastmod>2019-08-15T00:45:40.867Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/hello_world/</loc>
     
     <lastmod>2019-08-14T06:33:41.177Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/select_student/</loc>
     
     <lastmod>2019-08-14T06:33:26.518Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/zha_zha_hui/</loc>
-    
-    <lastmod>2019-08-14T06:28:47.163Z</lastmod>
     
   </url>
   
@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/categories/index.html</loc>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/about/index.html</loc>
     
     <lastmod>2019-07-22T00:03:29.160Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/about/index.html</loc>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/categories/index.html</loc>
     
     <lastmod>2019-07-22T00:03:29.160Z</lastmod>
     

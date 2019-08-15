@@ -24,7 +24,7 @@
 - [005写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
 
 
-- [004如何渣渣辉广告偷偷放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/) 
+- [004如何把渣渣辉广告放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/) 
 
 - [003前端要开车, 百度变谷歌](https://zhaoolee.com/ProgrammingWithChrome/baidu_2_google/)
 
@@ -46,7 +46,7 @@
 ![select_student](https://user-images.githubusercontent.com/15868458/62990263-e2fe0b00-be7d-11e9-8c72-b7f1bf743aee.gif)
 
 
-#### [004如何渣渣辉广告偷偷放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
+#### [004如何把渣渣辉广告放到百度首页?!](https://zhaoolee.com/ProgrammingWithChrome/zha_zha_hui/)
 
 > ![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
 > 大扎好,我是渣渣辉!
