@@ -26,6 +26,9 @@
 
 ## 目录
 
+- [006真心话大冒险](https://zhaoolee.com/ProgrammingWithChrome/truth_or_dare)
+
+
 - [005写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
 
 
