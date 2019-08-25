@@ -1,6 +1,6 @@
 ---
 title: 孩子第一次开口要呼唤"妈妈",我们第一次编程要打印"Hello World"!
-top: 999
+top: 1
 tags:
 - console.log
 - alert

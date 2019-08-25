@@ -1,6 +1,6 @@
 ---
 title: 写一个抽奖(点名回答问题)的扩展程序~
-top: 995
+top: 5
 tags:
 - Math
 - sketch
