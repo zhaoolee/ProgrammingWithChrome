@@ -16,6 +16,7 @@ categories:
 
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/63646763-8ab2ed00-c74a-11e9-81e8-e224a0ef375c.gif
 
+## [真心话大冒险 在线地址: https://zhaoolee.com/ProgrammingWithChrome/zhaoolee_truth_or_dare/](https://zhaoolee.com/ProgrammingWithChrome/zhaoolee_truth_or_dare)
 
 真心话大冒险是一个简单易行的小游戏, 具体规则一般为2人时，可利用猜拳决定；3人时，可利用手心手背决定；如果有很多人，可以抽牌，通常来说抽中大鬼的那位就要选择真心话还是大冒险。
 

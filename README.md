@@ -44,6 +44,12 @@
 
 ## 简介
 
+### [006真心话大冒险](https://zhaoolee.com/ProgrammingWithChrome/truth_or_dare/)
+
+![truth_or_dare](https://user-images.githubusercontent.com/15868458/63646762-8ab2ed00-c74a-11e9-9275-75d044fc0bc0.gif)
+
+> 在线地址: https://zhaoolee.com/ProgrammingWithChrome/zhaoolee_truth_or_dare/  真心话大冒险是一个简单易行的小游戏, 具体规则一般为2人时，可利用猜拳决定；3人时，可利用手心手背决定；如果有很多人，可以抽牌，通常来说抽中大鬼的那位就要选择真心话还是大冒险。
+
 ### [005写一个抽奖(点名回答问题)的扩展程序~](https://zhaoolee.com/ProgrammingWithChrome/select_student)
 
 ![select_student](https://user-images.githubusercontent.com/15868458/62990263-e2fe0b00-be7d-11e9-8c72-b7f1bf743aee.gif)
