@@ -1,133 +1,3 @@
----
-title: 免费赠送的DOM-伪元素
-top: 7
-tags:
-- Css
-- 动画
-- 色块
-categories:
-- 前端工程师
-
----
-
-
-![bottom_color_block_cover_font](https://user-images.githubusercontent.com/15868458/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif)
-
-
-<!-- more -->
-
-- Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64060232-49b05200-cbfc-11e9-9eba-5616240a1739.gif
-
-
-## [底部色块覆盖文字 在线地址: https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/](https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/)
-
-------
-
-源码: 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>底部色块覆盖文字</title>
-</head>
-<body>
-    <span class="bottom_color_block_cover_font">天 是 方 的 地 是 圆 的</span>
-
-    <style>
-        body{
-            height: 80vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-
-        }
-        .bottom_color_block_cover_font{
-            display: inline-block;
-            padding: 10px;
-            position: relative;
-            color: #020002;
-            z-index: 1;
-            font-size: 30px;
-        }
-
-        /*鼠标浮动到文字上方变成小手*/
-        .bottom_color_block_cover_font:hover{
-            cursor: pointer;
-        }
-
-
-        .bottom_color_block_cover_font::after{
-            content: "";
-            position: absolute;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            z-index: -1;
-            height: 6px;
-            background-color: #BE9F6A;
-            transform-origin: bottom;
-            transition: all 0.2s ease-in-out;
-        }
-
-
-        .bottom_color_block_cover_font:hover::after{
-            z-index: -1;
-            height: 100%;
-            background-color: #BE9F6A;
-        }
-
-
-    </style>
-
-
-
-</body>
-</html>
-```
-上图中文字的底部色块就是用伪元素添加的
-
-
-## 关于伪元素
-
-- **伪元素**就像*某宝/某多多商品大促销*免费赠送的DOM元素。它可以被添加与DOM元素相关的属性, 但不会在HTML中展示出来
-
-![image](https://user-images.githubusercontent.com/15868458/64061465-b08a3700-cc0d-11e9-8b80-df1c202b645e.png)
-
-
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>添加伪元素</title>
-</head>
-<body>
-    <div class="title">用Chrome学编程</div>
-    <style>
-        .title::before{
-            content: "《"
-        }
-        .title::after{
-            content: "》";
-        }
-    </style>
-</body>
-</html>
-```
-
-- 善用before 、after两个伪元素。一个标签可以当3个标签来使用, 配合css, 让单标签动画成为了可能~
-
-![font_line](https://user-images.githubusercontent.com/15868458/64061856-8edf7e80-cc12-11e9-85aa-22e788656608.gif)
-
-- - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64061857-8edf7e80-cc12-11e9-81e7-87a7b876a07d.gif
-
-[为字体添加划线 在线查看地址: https://zhaoolee.com/ProgrammingWithChrome/font_line/](https://zhaoolee.com/ProgrammingWithChrome/font_line/)
-
-- 源码
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -189,6 +59,13 @@ categories:
             transition: transform 0.2s ease-in-out;
         }
         /*添加到文字元素 前面的伪元素 top为0  转换原点在右侧(如下图)
+           ---------
+          |         |
+          |         |
+          |         〇
+          |         |
+          |         |
+          ----------
           */
         .font_line_cn::before{
             left: 0;
@@ -209,6 +86,15 @@ categories:
             transform-origin: bottom left;
             transform: scaleY(1);
         }
+
+
+
+
+
+
+
+
+
 
         /* 英文*/
 
@@ -265,15 +151,3 @@ categories:
     </style>
 </body>
 </html>
-```
-
-
-
-
-
-
-
-
-## 编程小知识
-
-- 伪元素虽然有趣,但有一些特定的标签是不支持伪元素 before 和 after 的, 比如常见的`<img>` 、`<input>`、`<iframe>` 都不支持伪元素; 为啥不支持? 标签要想支持伪元素,就需要这个标签必须允许插入其它元素, 但 `<img>` 、`<input>`、`<iframe>`这三位大佬都不允许插入其它元素(比如`<img><span>欧拉欧拉</span></img>`的写法是不符合语法的), 所以 不允许插入其它元素的DOM元素,都不支持伪元素;
