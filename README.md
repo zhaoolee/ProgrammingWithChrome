@@ -26,6 +26,8 @@
 
 ## 目录
 
+- [007css经典动画之伪元素色块覆盖文字](https://zhaoolee.com/ProgrammingWithChrome/007_color_block_font/)
+
 - [006真心话大冒险](https://zhaoolee.com/ProgrammingWithChrome/truth_or_dare)
 
 
@@ -43,6 +45,14 @@
 
 
 ## 简介
+
+### [007css经典动画之伪元素色块覆盖文字](https://zhaoolee.com/ProgrammingWithChrome/007_color_block_font/)
+
+![bottom_color_block_cover_font](https://user-images.githubusercontent.com/15868458/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif)
+
+> 在线查看: https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/
+
+
 
 ### [006真心话大冒险](https://zhaoolee.com/ProgrammingWithChrome/truth_or_dare/)
 
