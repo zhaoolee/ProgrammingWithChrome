@@ -50,3 +50,6 @@ for_99();
 
 - 循环用于让计算机做一些重复的事, 九九乘法表(小九九)是一个典型的二层的循环, 理解了程序中**循环流程**的规则, 也就能打印出九九乘法表了
 
+
+## 项目推广:
+本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: [https://github.com/zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome)  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~

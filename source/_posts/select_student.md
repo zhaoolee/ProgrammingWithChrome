@@ -252,3 +252,6 @@ chrome://extensions
 ## 编程小知识
 
 - Math.random() 函数返回一个浮点伪随机数, 在范围[0，1)，也就是说，从0（包括0）往上，但是**排除1**, 可以实现将初始种子选择到随机数生成算法 [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/getElementById)
+
+## 项目推广:
+本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: [https://github.com/zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome)  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~

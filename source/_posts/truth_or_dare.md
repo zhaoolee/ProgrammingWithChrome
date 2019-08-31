@@ -459,4 +459,6 @@ categories:
 - EventTarget.addEventListener() 将指定的监听器注册到 EventTarget 上，当该对象触发指定的事件时，指定的回调函数就会被执行。 [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/API/EventTarget/addEventListener)
 
 
+## 项目推广:
+本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: [https://github.com/zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome)  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~
 

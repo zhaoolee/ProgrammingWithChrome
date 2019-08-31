@@ -65,3 +65,7 @@ categories:
 
 数组(Array)是一个有序数据的集合, 我们可以把渣渣辉的台词, 按照顺序存到数组里`["大扎好", "我西渣渣辉~", "探挽蓝月", "介系里~", "没有玩过的", "船新版本~", "挤需", "体验三番钟~", "里造会", "干我一样~", "爱象", "节款游戏!"]`, 然后程序就可以把渣渣辉的台词依次显示到屏幕上~
 [来自MDN的专业解释](https://developer.mozilla.org/zh-CN/docs/Glossary/array)
+
+
+## 项目推广:
+本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: [https://github.com/zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome)  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~

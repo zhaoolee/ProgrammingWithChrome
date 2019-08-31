@@ -2,9 +2,8 @@
 title: 免费赠送的DOM-伪元素
 top: 7
 tags:
-- Css
-- 动画
-- 色块
+- css动画
+- 伪元素
 categories:
 - 前端工程师
 
@@ -94,7 +93,7 @@ categories:
 
 ![image](https://user-images.githubusercontent.com/15868458/64061465-b08a3700-cc0d-11e9-8b80-df1c202b645e.png)
 
-
+> 由于伪元素不在正式的文档流当中,所以上图网页中的`《`和`》`无法被鼠标拖拽选中
 
 ```html
 <!DOCTYPE html>
@@ -121,7 +120,7 @@ categories:
 
 ![font_line](https://user-images.githubusercontent.com/15868458/64061856-8edf7e80-cc12-11e9-85aa-22e788656608.gif)
 
-- - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64061857-8edf7e80-cc12-11e9-81e7-87a7b876a07d.gif
+- Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64061857-8edf7e80-cc12-11e9-81e7-87a7b876a07d.gif
 
 [为字体添加划线 在线查看地址: https://zhaoolee.com/ProgrammingWithChrome/font_line/](https://zhaoolee.com/ProgrammingWithChrome/font_line/)
 
@@ -269,6 +268,9 @@ categories:
 
 
 
+- 完整程序已经上传到github, 下载地址如下:
+
+[https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/007pseudo_element/](https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/007pseudo_element/)
 
 
 
@@ -276,4 +278,9 @@ categories:
 
 ## 编程小知识
 
-- 伪元素虽然有趣,但有一些特定的标签是不支持伪元素 before 和 after 的, 比如常见的`<img>` 、`<input>`、`<iframe>` 都不支持伪元素; 为啥不支持? 标签要想支持伪元素,就需要这个标签必须允许插入其它元素, 但 `<img>` 、`<input>`、`<iframe>`这三位大佬都不允许插入其它元素(比如`<img><span>欧拉欧拉</span></img>`的写法是不符合语法的), 所以 不允许插入其它元素的DOM元素,都不支持伪元素;
+- 伪元素虽然非常有用,但有一些特定的标签是不支持伪元素 before 和 after 的, 比如常见的`<img>` 、`<input>`、`<iframe>` 都不支持伪元素; 为啥不支持? 标签要想支持伪元素,就需要这个标签必须允许插入其它元素, 但 `<img>` 、`<input>`、`<iframe>`这三位大佬都不允许插入其它元素(比如`<img><span>欧拉欧拉</span></img>`的写法是不符合语法的), 所以 不允许插入其它元素的DOM元素,都不支持伪元素; [MDN的专业解释链接](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Pseudo-elements)
+
+
+## 项目推广:
+本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: [https://github.com/zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome)  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~
+

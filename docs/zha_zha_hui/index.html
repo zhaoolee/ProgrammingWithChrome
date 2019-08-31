@@ -111,7 +111,7 @@
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif">
 <meta property="og:image" content="https://user-images.githubusercontent.com/15868458/62919262-bc37ca00-bdd4-11e9-9fd3-fade1acac58e.jpg">
-<meta property="og:updated_time" content="2019-08-25T07:15:18.294Z">
+<meta property="og:updated_time" content="2019-08-31T09:42:19.675Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="如何把渣渣辉广告放到百度首页?!">
 <meta name="twitter:image" content="https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif">
@@ -461,7 +461,7 @@
                 
                   <span class="post-meta-item-text">更新于</span>
                 
-                <time title="修改时间：2019-08-25 15:15:18" itemprop="dateModified" datetime="2019-08-25T15:15:18+08:00">2019-08-25</time>
+                <time title="修改时间：2019-08-31 17:42:19" itemprop="dateModified" datetime="2019-08-31T17:42:19+08:00">2019-08-31</time>
               
             
           </span>
@@ -537,6 +537,7 @@
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// ==UserScript==</span></span><br><span class="line"><span class="comment">// @name         百度</span></span><br><span class="line"><span class="comment">// @namespace    https://github.com/zhaoolee/</span></span><br><span class="line"><span class="comment">// @version      0.1</span></span><br><span class="line"><span class="comment">// @description  try to take over the world!</span></span><br><span class="line"><span class="comment">// @author       zhaoolee</span></span><br><span class="line"><span class="comment">// @match        https://www.baidu.com/</span></span><br><span class="line"><span class="comment">// @grant        none</span></span><br><span class="line"><span class="comment">// ==/UserScript==</span></span><br><span class="line"></span><br><span class="line">(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="meta">    'use strict'</span>;</span><br><span class="line">    <span class="comment">// 将要推送的信息, 拆成6个字以内,写到一个数组里</span></span><br><span class="line">    <span class="keyword">let</span> info = [<span class="string">"大扎好"</span>, <span class="string">"我西渣渣辉~"</span>, <span class="string">"探挽蓝月"</span>, <span class="string">"介系里~"</span>, <span class="string">"没有玩过的"</span>, <span class="string">"船新版本~"</span>, <span class="string">"挤需"</span>, <span class="string">"体验三番钟~"</span>, <span class="string">"里造会"</span>, <span class="string">"干我一样~"</span>, <span class="string">"爱象"</span>, <span class="string">"节款游戏!"</span>];</span><br><span class="line">    <span class="comment">// 写一个函数,遍历数组</span></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">let</span> i = <span class="number">0</span>; i&lt;info.length; i++)&#123;</span><br><span class="line">        <span class="comment">// 定义元素出现的时间间隔 这里定义为1000毫秒, 也就是1秒钟</span></span><br><span class="line">        <span class="keyword">let</span> time_interval = <span class="number">1000</span>;</span><br><span class="line">        <span class="comment">// 第一个元素1秒后出现, 第二个元素2秒后出现, 第三个元素3秒后出现... 依次类推</span></span><br><span class="line">        setTimeout(<span class="function"><span class="params">()</span>=&gt;</span>&#123;<span class="built_in">document</span>.getElementById(<span class="string">"su"</span>).value=info[i]&#125;, i*<span class="number">1000</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;)();</span><br></pre></td></tr></table></figure>
 
 <h2 id="编程小知识"><a href="#编程小知识" class="headerlink" title="编程小知识:"></a>编程小知识:</h2><p>数组(Array)是一个有序数据的集合, 我们可以把渣渣辉的台词, 按照顺序存到数组里<code>[&quot;大扎好&quot;, &quot;我西渣渣辉~&quot;, &quot;探挽蓝月&quot;, &quot;介系里~&quot;, &quot;没有玩过的&quot;, &quot;船新版本~&quot;, &quot;挤需&quot;, &quot;体验三番钟~&quot;, &quot;里造会&quot;, &quot;干我一样~&quot;, &quot;爱象&quot;, &quot;节款游戏!&quot;]</code>, 然后程序就可以把渣渣辉的台词依次显示到屏幕上~<br><a href="https://developer.mozilla.org/zh-CN/docs/Glossary/array" target="_blank" rel="noopener">来自MDN的专业解释</a></p>
+<h2 id="项目推广"><a href="#项目推广" class="headerlink" title="项目推广:"></a>项目推广:</h2><p>本文属于《用Chrome学编程》的一部分, 《用Chrome学编程》用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!开源地址: <a href="https://github.com/zhaoolee/ProgrammingWithChrome" target="_blank" rel="noopener">https://github.com/zhaoolee/ProgrammingWithChrome</a>  如果你喜欢这个项目, 欢迎为项目加一颗🌟星 ~</p>
 
       
     </div>
@@ -766,9 +767,7 @@
                     
                       
                     
-                      
-                    
-                    <span class="site-state-item-count">20</span>
+                    <span class="site-state-item-count">19</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -832,7 +831,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Gif图中相关资源"><span class="nav-number">1.</span> <span class="nav-text">Gif图中相关资源:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#编程小知识"><span class="nav-number">2.</span> <span class="nav-text">编程小知识:</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Gif图中相关资源"><span class="nav-number">1.</span> <span class="nav-text">Gif图中相关资源:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#编程小知识"><span class="nav-number">2.</span> <span class="nav-text">编程小知识:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#项目推广"><span class="nav-number">3.</span> <span class="nav-text">项目推广:</span></a></li></ol></div>
             
 
           </div>
