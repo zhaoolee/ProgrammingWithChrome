@@ -20,6 +20,7 @@ categories:
 
 ## [底部色块覆盖文字 在线地址: https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/](https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/)
 
+[示例灵感来源: 老罗巴扎嘿的方圆生活研究所](https://huaban.com/pins/2203259469/)
 ------
 
 
