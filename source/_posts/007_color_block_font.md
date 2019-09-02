@@ -22,6 +22,7 @@ categories:
 
 ------
 
+
 源码: 
 ```html
 <!DOCTYPE html>
@@ -85,6 +86,12 @@ categories:
 </html>
 ```
 上图中文字的底部色块就是用伪元素添加的
+
+
+## 如何保存html源码并在浏览器运行?
+![chrome_html](https://user-images.githubusercontent.com/15868458/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235.gif)
+详细方法链接: [Chrome保存并运行Html代码片段的方法](https://zhaoolee.com/ProgrammingWithChrome/008_chrome_html/)
+
 
 
 ## 关于伪元素

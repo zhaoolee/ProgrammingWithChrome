@@ -24,6 +24,8 @@
 
 ## 目录
 
+- [008Chrome保存并运行Html代码片段的方法](https://zhaoolee.com/ProgrammingWithChrome/008_chrome_html/)
+
 - [007免费赠送的DOM-伪元素](https://zhaoolee.com/ProgrammingWithChrome/007_color_block_font/)
 
 - [006真心话大冒险](https://zhaoolee.com/ProgrammingWithChrome/truth_or_dare)
@@ -43,6 +45,13 @@
 
 
 ## 简介
+
+### [008Chrome保存并运行Html代码片段的方法](https://zhaoolee.com/ProgrammingWithChrome/008_chrome_html/)
+
+![chrome_html](https://user-images.githubusercontent.com/15868458/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235.gif)
+
+> 在网页看到一段html代码, 想自己动手试一下的时候, 我们无需任何编辑器转存, 就可以在Chrome内运行, 查看运行的效果
+
 
 ### [007免费赠送的DOM-伪元素](https://zhaoolee.com/ProgrammingWithChrome/007_color_block_font/)
 

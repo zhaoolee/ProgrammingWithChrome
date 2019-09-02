@@ -452,6 +452,9 @@ categories:
 
 [https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/truth_or_dare/](https://github.com/zhaoolee/ProgrammingWithChrome/tree/master/pwc_source/truth_or_dare/index.html)
 
+## 如何保存html源码并在浏览器运行?
+![chrome_html](https://user-images.githubusercontent.com/15868458/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235.gif)
+详细方法链接: [Chrome保存并运行Html代码片段的方法](https://zhaoolee.com/ProgrammingWithChrome/008_chrome_html/)
 
 
 ## 编程小知识
