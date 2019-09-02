@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/008_chrome_html/</loc>
+    
+    <lastmod>2019-09-02T01:38:38.023Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/truth_or_dare/</loc>
     
     <lastmod>2019-09-02T01:09:09.529Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://zhaoolee.github.io/ProgrammingWithChrome/007_color_block_font/</loc>
     
     <lastmod>2019-09-02T01:08:58.529Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/008_chrome_html/</loc>
-    
-    <lastmod>2019-09-02T01:06:47.720Z</lastmod>
     
   </url>
   
@@ -58,14 +58,14 @@
   </url>
   
   <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/categories/index.html</loc>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/about/index.html</loc>
     
     <lastmod>2019-07-22T00:03:29.160Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/about/index.html</loc>
+    <loc>http://zhaoolee.github.io/ProgrammingWithChrome/categories/index.html</loc>
     
     <lastmod>2019-07-22T00:03:29.160Z</lastmod>
     

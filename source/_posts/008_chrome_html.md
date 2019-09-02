@@ -15,7 +15,7 @@ categories:
 
 ![chrome_html](https://user-images.githubusercontent.com/15868458/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235.gif)
 
-
+- Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/64085435-497f9600-cd65-11e9-921b-ddb92662baca.gif
 
 
 ## 步骤详解
