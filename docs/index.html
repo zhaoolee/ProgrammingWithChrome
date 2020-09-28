@@ -21,6 +21,7 @@
       routerMode: 'hash',
       homepage: 'readme-pwc.md',
       search: 'auto', // 默认值
+      disqus: 'zhaoolee',
       // 字数统计
       count: {
         countable: true,
@@ -50,29 +51,17 @@
 
   <script>
     var _hmt = _hmt || [];
-    (function() {
+    (function () {
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?34564f2837e4e2fb61052ac26a09b689";
-      var s = document.getElementsByTagName("script")[0]; 
+      var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
-    </script>
-
-
-
-<div id="disqus_thread"></div>
-<script>
-
-  (function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://v2fy-com.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  })();
   </script>
 
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
 </body>
 
 </html>
