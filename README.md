@@ -5,22 +5,12 @@
 **《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 
 
-
 ## 用Chrome学编程的好处
 
 - 用Chrome学编程, 可以免除配置开发环境的步骤, 适合新手入门
 - 借助Chrome的扩展程序Tampermonkey, 可以开发出跨平台跨浏览器的脚本程序
 - Chrome运行的Javascript语言, 是前后端(Javascript和Node.js)通吃的语言, 学习性价比极高
 
-## 项目特色
-
-| 优势  |  示例图    | [ChineseBQB](https://github.com/zhaoolee/ChineseBQB)  |
-| --- | --- | --- |
-| 可以粘贴到Chrome, 运行出结果  | <img height='100px' style='height:100px;'  src='https://user-images.githubusercontent.com/15868458/62856847-8e954700-bd28-11e9-8797-76e014ce06d3.gif' />  | <img height='100px' style='height:100px;'  src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/017Playing_%E6%BC%94%E5%A5%8F%F0%9F%8E%BBBQB/0.gif' /> |
-| 原创案例, 简单有趣  | <img height='100px' style='height:100px;'  src='https://user-images.githubusercontent.com/15868458/63646762-8ab2ed00-c74a-11e9-9275-75d044fc0bc0.gif' /> | <img height='100px' style='height:100px;'  src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/024Programmer_%E7%A8%8B%E5%BA%8F%E5%91%98%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%80%8DBQB/89E42AEF082690539C7780142B7EE5F3.png' /> |
-| 高质量资源,案例关联超清Gif演示图 | <img height='100px' style='height:100px;'  src='https://user-images.githubusercontent.com/15868458/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif' />  | <img height='100px' style='height:100px;'  src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/031Penguin_%E6%B2%99%E9%9B%95%E4%BC%81%E9%B9%85%F0%9F%90%A7BQB/0.gif' /> |
-
----
 
 ## 更新
 
