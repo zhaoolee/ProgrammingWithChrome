@@ -10,7 +10,7 @@ categories:
 
 ---
 
-![truth_or_dare](https://user-images.githubusercontent.com/15868458/63646762-8ab2ed00-c74a-11e9-9275-75d044fc0bc0.gif)
+![truth_or_dare](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/truth_or_dare.assets/63646762-8ab2ed00-c74a-11e9-9275-75d044fc0bc0.gif)
 
 <!-- more -->
 
@@ -176,7 +176,7 @@ categories:
 
 - 使用sketch绘制界面 
 
-![](https://user-images.githubusercontent.com/15868458/63646821-57bd2900-c74b-11e9-90ba-0a454b133236.png)
+![](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/truth_or_dare.assets/63646821-57bd2900-c74b-11e9-90ba-0a454b133236.png)
 
 
 - sketch设计稿下载地址如下:

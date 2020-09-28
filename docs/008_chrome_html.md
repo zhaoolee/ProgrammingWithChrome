@@ -13,7 +13,7 @@ categories:
 
 在网页看到一段html代码, 想自己动手试一下的时候, 我们无需任何编辑器转存, 就可以在Chrome内运行, 查看运行的效果
 
-![chrome_html](https://user-images.githubusercontent.com/15868458/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235.gif)
+![chrome_html](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/007_color_block_font.assets/64084748-d4aa5d00-cd60-11e9-8e9e-3073b4e16235-20200928154249288.gif)
 
 - Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/64085435-497f9600-cd65-11e9-921b-ddb92662baca.gif
 

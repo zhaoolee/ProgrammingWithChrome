@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "cp -rf docs/README.md README.md && git add . && git commit -m '更新用Chrome学编程'&& git push"
+    "push": "cp -rf docs/README.md README.md && node rsync.js && git add . && git commit -m '更新用Chrome学编程'&& git push"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/zhaoolee/ProgrammingWithChrome/issues"
   },
-  "homepage": "https://github.com/zhaoolee/ProgrammingWithChrome#readme"
+  "homepage": "https://github.com/zhaoolee/ProgrammingWithChrome#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chmodr": "^1.2.0",
+    "download": "^7.1.0",
+    "fs-extra": "^8.1.0",
+    "rsync": "^0.6.1",
+    "showdown": "^1.9.1"
+  }
 }

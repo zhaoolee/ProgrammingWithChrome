@@ -14,7 +14,7 @@ categories:
 
 
 
-![zha_zha_hui](https://user-images.githubusercontent.com/15868458/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
+![zha_zha_hui](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/zha_zha_hui.assets/62918966-d8873700-bdd3-11e9-8a64-02fe0fc3d170.gif)
 
 
 <!-- more -->
@@ -23,7 +23,7 @@ categories:
 - Gif高清原图地址:  https://user-images.githubusercontent.com/15868458/62918963-d7eea080-bdd3-11e9-93c7-9617c306fb92.gif
 
 
-![](https://user-images.githubusercontent.com/15868458/62919262-bc37ca00-bdd4-11e9-9fd3-fade1acac58e.jpg)
+![](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/zha_zha_hui.assets/62919262-bc37ca00-bdd4-11e9-9fd3-fade1acac58e.jpg)
 
 
 

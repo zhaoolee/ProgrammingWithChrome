@@ -10,7 +10,7 @@ categories:
 ---
 
 
-![bottom_color_block_cover_font](https://user-images.githubusercontent.com/15868458/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif)
+![bottom_color_block_cover_font](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/007_color_block_font.assets/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif)
 
 
 <!-- more -->
@@ -99,7 +99,7 @@ categories:
 
 - **伪元素**就像*某宝/某多多商品大促销*免费赠送的DOM元素。它可以被添加与DOM元素相关的属性, 但不会在HTML中展示出来
 
-![image](https://user-images.githubusercontent.com/15868458/64061465-b08a3700-cc0d-11e9-8b80-df1c202b645e.png)
+![image](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/007_color_block_font.assets/64061465-b08a3700-cc0d-11e9-8b80-df1c202b645e.png)
 
 > 由于伪元素不在正式的文档流当中,所以上图网页中的`《`和`》`无法被鼠标拖拽选中
 
@@ -126,7 +126,7 @@ categories:
 
 - 善用before 、after两个伪元素。一个标签可以当3个标签来使用, 配合css, 让单标签动画成为了可能~
 
-![font_line](https://user-images.githubusercontent.com/15868458/64061856-8edf7e80-cc12-11e9-85aa-22e788656608.gif)
+![font_line](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/007_color_block_font.assets/64061856-8edf7e80-cc12-11e9-85aa-22e788656608.gif)
 
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64061857-8edf7e80-cc12-11e9-81e7-87a7b876a07d.gif
 

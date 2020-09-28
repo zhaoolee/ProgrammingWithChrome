@@ -8,13 +8,11 @@ tags:
 - 小学生
 categories:
 - 算法
-
-
 ---
 
 ------
 
-![for_99](https://user-images.githubusercontent.com/15868458/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif)
+![for_99](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/for_99.assets/62908815-7e26b000-bdac-11e9-86ec-97251deb2ae0.gif)
 
 <!-- more -->
 
