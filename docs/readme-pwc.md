@@ -7,7 +7,6 @@
 
 **《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 
-
 ## 用Chrome学编程的好处
 
 - 用Chrome学编程, 可以免除配置开发环境的步骤, 适合新手入门
