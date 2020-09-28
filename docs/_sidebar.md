@@ -7,5 +7,3 @@
 * [006真心话大冒险](truth_or_dare.md)
 * [007免费赠送的DOM-伪元素](007_color_block_font.md)
 * [008Chrome保存并运行Html代码片段的方法](008_chrome_html.md)
-
-
