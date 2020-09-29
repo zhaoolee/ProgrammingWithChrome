@@ -12,4 +12,5 @@
 - Javascript语言, 前后端(Javascript和Node.js)通吃, 学习性价比极高
 
 [GitHub](https://github.com/zhaoolee/ProgrammingWithChrome)
-[Get Started](#docsify)
+
+[开始](#readme-pwc)
