@@ -1,13 +1,3 @@
----
-title: 免费赠送的DOM-伪元素
-top: 7
-tags:
-- css动画
-- 伪元素
-categories:
-- 前端工程师
-
----
 
 
 ![bottom_color_block_cover_font](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/007_color_block_font.assets/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c.gif)

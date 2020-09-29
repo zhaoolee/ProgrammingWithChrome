@@ -1,14 +1,3 @@
----
-title: 写一个抽奖(点名回答问题)的扩展程序~
-top: 5
-tags:
-- Math
-- sketch
-- 扩展程序
-categories:
-- 前端工程师
-
----
 
 
 
