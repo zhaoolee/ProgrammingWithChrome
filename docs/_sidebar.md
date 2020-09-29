@@ -1,5 +1,5 @@
 - [前言](readme-pwc.md)
-+ 前端
+- 用Chrome熟悉编程语法
   - [001《Hello World》孩子第一次开口都叫"妈妈",我们第一次编程要打印"Hello world"!](2020-09-29_001_hello_world.md)
   - [002《for循环的用法》小学生才背诵小九九, 程序员直接代码打印](2020-09-29_002_for_99.md)
   - [003《替换网页元素》前端要开车, 百度变谷歌](2020-09-29_003_baidu_2_google.md)
@@ -8,12 +8,20 @@
   - [006《小游戏》真心话大冒险](2020-09-29_006_truth_or_dare.md)
   - [007《伪元素》免费赠送的DOM-伪元素](2020-09-29_007_color_block_font.md)
   - [008《保存代码文件》Chrome保存并运行Html代码片段的方法](2020-09-29_008_chrome_html.md)
+- 学Web前端（待更新）
 - Web爬虫（待更新）
-- 后端服务（待更新）
-- 值得常逛的编程网站（待更新）
-- 旦用难回的在线工具（待更新）
+- Web后端服务（待更新）
+- Web面试（待更新）
+- 程序员常逛的编程网站
+  - [掘金](https://juejin.im/)
+  - [菜鸟教程](https://www.runoob.com/)
+  - [Github](https://github.com/)
+- 程序员常用在线工具
+  - [Base64加密解密](https://www.base64encode.org/)
+  - [Windows在线激活](https://v0v.bid/)
+  
 
-+ 更多精彩
+- 作者zhaoolee其它作品
   - [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
   - [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)
   - [中国人的表情包](https://www.v2fy.com/p/000readme-chinesebqb/)
