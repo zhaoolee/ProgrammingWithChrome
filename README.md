@@ -14,7 +14,7 @@
 - Chrome运行的Javascript语言, 是前后端(Javascript和Node.js)通吃的语言, 学习性价比极高
 
 
-[Github Page备用地址](https://zhaoolee.com/ProgrammingWithChrome/#/)
+[Github Page备用地址](https://zhaoolee.com/ProgrammingWithChrome/#/readme-pwc)
 
 
 
