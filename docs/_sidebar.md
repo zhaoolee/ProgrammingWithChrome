@@ -12,3 +12,10 @@
 - 提升编程效率的工具（待更新）
 - 值得常逛的编程网站（待更新）
 - 旦用难回的在线工具（待更新）
+
+- 更多精彩
+  - [在线工具秘籍](https://www.v2fy.com/p/readme-onlinetoolsbook/)
+  - [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)
+  - [中国人的表情包](https://www.v2fy.com/p/000readme-chinesebqb/)
+  - [猫爪导航](https://www.v2fy.com/)
+  - [咋摆POSE](https://www.v2fy.com/jikemiji/find-pose/)
