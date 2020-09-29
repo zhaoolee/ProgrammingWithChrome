@@ -2,7 +2,7 @@
 
 
 
-**《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!**
+**《用Chrome学编程》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!**
 
 **《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 

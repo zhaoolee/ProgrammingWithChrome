@@ -3,7 +3,8 @@
 
 # 用Chrome学编程 <br/> Programming with Chrome
 
-> 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!
+> 用Gif图展示Chrome的骚操作
+> 充分挖掘Chrome的编程潜力
 
 
 - 免除配置开发环境的步骤, 适合新手入门
