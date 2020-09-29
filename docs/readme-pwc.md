@@ -55,7 +55,7 @@
 
 ![bottom_color_block_cover_font](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/readme-pwc.assets/64060231-49b05200-cbfc-11e9-9bb3-df50fe6eae7c-20200928160033356.gif)
 
-> 在线查看: https://v2fy.com/books/ProgrammingWithChrome/docs/#/bottom_color_block_cover_font/
+> 在线查看: https://v2fy.com/books/ProgrammingWithChrome/pwc_source/007pseudo_element/bottom_color_block_cover_font.html
 
 
 

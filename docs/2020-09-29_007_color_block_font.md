@@ -18,7 +18,7 @@ categories:
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64060232-49b05200-cbfc-11e9-9eba-5616240a1739.gif
 
 
-## [底部色块覆盖文字 在线地址: https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/](https://zhaoolee.com/ProgrammingWithChrome/bottom_color_block_cover_font/)
+[底部色块覆盖文字 在线地址: https://v2fy.com/books/ProgrammingWithChrome/pwc_source/007pseudo_element/bottom_color_block_cover_font.html](https://v2fy.com/books/ProgrammingWithChrome/pwc_source/007pseudo_element/bottom_color_block_cover_font.html)
 
 [示例灵感来源: 老罗巴扎嘿的方圆生活研究所](https://huaban.com/pins/2203259469/)
 ------
@@ -130,7 +130,7 @@ categories:
 
 - Gif高清原图地址: https://user-images.githubusercontent.com/15868458/64061857-8edf7e80-cc12-11e9-81e7-87a7b876a07d.gif
 
-[为字体添加划线 在线查看地址: https://zhaoolee.com/ProgrammingWithChrome/font_line/](https://zhaoolee.com/ProgrammingWithChrome/font_line/)
+[为字体添加划线 在线查看地址: https://v2fy.com/books/ProgrammingWithChrome/pwc_source/007pseudo_element/font_line.html](https://v2fy.com/books/ProgrammingWithChrome/pwc_source/007pseudo_element/font_line.html)
 
 - 源码
 
