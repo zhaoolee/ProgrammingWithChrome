@@ -63,7 +63,7 @@
 
 ![truth_or_dare](https://raw.githubusercontent.com/zhaoolee/ProgrammingWithChrome/master/README/63646762-8ab2ed00-c74a-11e9-9275-75d044fc0bc0-20200928160037000.gif)
 
-> 在线地址: https://v2fy.com/books/ProgrammingWithChrome/docs/#/zhaoolee_truth_or_dare/  真心话大冒险是一个简单易行的小游戏, 具体规则一般为2人时，可利用猜拳决定；3人时，可利用手心手背决定；如果有很多人，可以抽牌，通常来说抽中大鬼的那位就要选择真心话还是大冒险。
+> 在线地址: https://v2fy.com/books/ProgrammingWithChrome/pwc_source/truth_or_dare/ 真心话大冒险是一个简单易行的小游戏, 具体规则一般为2人时，可利用猜拳决定；3人时，可利用手心手背决定；如果有很多人，可以抽牌，通常来说抽中大鬼的那位就要选择真心话还是大冒险。
 
 ### [005写一个抽奖(点名回答问题)的扩展程序~](https://v2fy.com/books/ProgrammingWithChrome/docs/#/2020-09-29_005_select_student)
 
