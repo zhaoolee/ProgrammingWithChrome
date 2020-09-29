@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve docs",
     "push": "node rsync.js && node push.js && git add . && git commit -m '更新用Chrome学编程'&& git push"
   },
   "repository": {
