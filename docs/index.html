@@ -32,7 +32,22 @@
       // 加封面
       coverpage: true,
       // 加顶部导航
-      loadNavbar: true
+      loadNavbar: true,
+      plugins: [
+        function (hook) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span><a href="https://github.com/zhaoolee">zhaoolee</a> ©️'+ (new Date()).getFullYear() + '</span>',
+            '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+            '</footer>'
+          ].join('');
+
+          hook.afterEach(function (html) {
+            return html + footer;
+          });
+        }
+      ]
     }
   </script>
 
