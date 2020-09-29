@@ -20,10 +20,10 @@ const exclude_md_files = [];
 
 // 自定义
 const target_url =
-  "https://www.v2fy.com/asset/0i/" + main_dir_name + "/" + md_dir_name + "/";
+  "https://www.v2fy.com/books/" + main_dir_name + "/" + md_dir_name + "/";
 
 console.log("target_url::", target_url);
-const target_path = "/usr/share/nginx/v2fy.com/asset/0i";
+const target_path = "/usr/share/nginx/v2fy.com/books";
 
 // 将本目录同步服务器
 async function update_data() {

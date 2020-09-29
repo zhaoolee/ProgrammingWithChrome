@@ -20,7 +20,7 @@
 
 ## 更新
 
-2020年开始使用docsify构建本项目
+2020年开始使用[Docsify, 一个神奇的文档网站生成器](https://github.com/docsifyjs/docsify/) 构建 [用Chrome学编程 Programming with Chrome](https://www.v2fy.com/asset/0i/ProgrammingWithChrome/docs/#/)
 
 
 ## 目录
