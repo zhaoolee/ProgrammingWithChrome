@@ -16,6 +16,10 @@
 [Github Page备用地址](https://zhaoolee.com/ProgrammingWithChrome/#/readme-pwc)
 
 
+## Chrome下载地址
+
+[https://www.google.cn/chrome/](https://www.google.cn/chrome/)
+
 
 ## 目录
 
