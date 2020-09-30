@@ -12,13 +12,11 @@
 - 借助Chrome扩展程序Tampermonkey, 可以开发出跨平台的脚本程序
 - JS是前后端通吃的语言, 学习性价比高
 
-
-[Github Page备用地址](https://zhaoolee.com/ProgrammingWithChrome/#/readme-pwc)
-
-
-## Chrome下载地址
+## Chrome下载地址及用法
 
 [https://www.google.cn/chrome/](https://www.google.cn/chrome/)
+
+[Chrome是现代互联网工业的标志性产品，如果想变成Chrome工具达人，欢迎查看老法师昭昭的另一本Github标星17000的开源电子书 《谷粒-Chrome插件英雄榜》](https://github.com/zhaoolee/ChromeAppHeroes)
 
 
 ## 目录
