@@ -4,6 +4,16 @@
 
 **《Programming with Chrome》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 
+
+
+《用Chrome学编程》是一本**轻编程开源电子书**，目的是吸引更多人对编程产生兴趣，让**轻编程**造福人类。
+《用Chrome学编程》特色是简单实用，资源丰富，每一页都有意外收获，只要你愿意读，总能发现一些，原来不了解的奇技淫巧。
+《用Chrome学编程》不止教编程，也教读者搭建博客，高效获取（白嫖）开源资源，掌握大量Chrome相关的扩展程序和在线工具。
+
+本书作者为[zhaoolee（老法师昭昭）](https://github.com/zhaoolee)，在Github有两个开源项目的运营经验（[Chrome插件英雄榜17K](https://github.com/zhaoolee/ChromeAppHeroes)，[中国人的表情包8K](https://github.com/zhaoolee/ChineseBQB)），老法师昭昭会持续更新本书，请放心食用；
+
+
+
 ## 用Chrome学编程的好处
 
 - 用Chrome学编程, 可以免除配置开发环境的步骤, 适合新手入门

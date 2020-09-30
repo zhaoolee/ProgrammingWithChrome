@@ -11,8 +11,8 @@
   - [007《伪元素》免费赠送的DOM-伪元素](2020-09-29_007_color_block_font.md)
   - [008《保存代码文件》Chrome保存并运行Html代码片段的方法](2020-09-29_008_chrome_html.md)
 
-- 先玩一些开源项目
-  - 安装VsCode，Node.js
+- [先玩一些开源项目](play_open_source/2020-09-30_000_play_open_source.md)
+  - [安装VsCode，Node.js](play_open_source/2020-09-30_001_install_vscode_nodejs.md)
   - 下载运行蔡徐坤打篮球游戏
   - 下载运行俄罗斯方块游戏
   - 私有化部署自由钢琴
