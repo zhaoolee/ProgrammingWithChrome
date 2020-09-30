@@ -13,7 +13,7 @@
 
 - [先玩一些开源项目](play_open_source/2020-09-30_000_play_open_source.md)
   - [安装VsCode，Node.js](play_open_source/2020-09-30_001_install_vscode_nodejs.md)
-  - 下载运行蔡徐坤打篮球游戏
+  - [下载运行蔡徐坤打篮球游戏](play_open_source/2020-09-30-002-cxk.md)
   - 下载运行俄罗斯方块游戏
   - 私有化部署自由钢琴
   - 人工智能对对联（对穿肠）
