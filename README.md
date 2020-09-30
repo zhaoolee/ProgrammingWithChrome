@@ -1,10 +1,8 @@
 ## [用Chrome学编程 Programming with Chrome](https://v2fy.com/books/ProgrammingWithChrome/docs/#/)
 
-
-
 **《用Chrome学编程》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!**
 
-**《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
+**《Programming with Chrome》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!**
 
 ## 用Chrome学编程的好处
 
@@ -18,6 +16,8 @@
 
 [Chrome是现代互联网工业的标志性产品，如果想变成Chrome工具达人，欢迎查看老法师昭昭的另一本Github标星17000的开源电子书 《谷粒-Chrome插件英雄榜》](https://github.com/zhaoolee/ChromeAppHeroes)
 
+
+## [用Chrome学编程永久开源地址](https://github.com/zhaoolee/ProgrammingWithChrome)
 
 ## 目录
 
